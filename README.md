@@ -33,7 +33,7 @@ Hi, I'm [Lucas Mariz!](https://lucaspmm.github.io/Curriculum/), a passionate sel
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other   30 hrs 25 mins  █████████████████████████   100.00 % 
+Other   31 hrs 7 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
